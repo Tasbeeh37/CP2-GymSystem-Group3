@@ -50,4 +50,30 @@ marketing reports.
 
 ---
 
-## 🏗️ Project Structure
+ 🏗️ Project Structure
+ src/
+├── Business/
+│   ├── Person.java
+│   ├── Employee.java
+│   ├── PersonalTrainer.java
+│   ├── Member.java
+│   ├── PolyStaff.java
+│   ├── PolyStudent.java
+│   ├── GymSystem.java
+│   ├── Reportable.java
+│   └── Main.java
+├──  FileHandler.java
+└── StartupLoader.java
+GUI/├──
+│   ├── MainMenu.java
+│   ├── AddNewMember.java
+│   ├── AddNewEmployee.java
+│   ├── EditMember.java
+│   ├── EditEmployeeDetails.java
+│   ├── DeleteMember.java
+│   ├── DeleteEmployee.java
+│   ├── AssignTrainer.java
+│   ├── ViewTrainerMembers.java
+│   └── MarketingReport.java
+
+
